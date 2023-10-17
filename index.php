@@ -47,7 +47,7 @@ $result1 = mysqli_query($data, $sql1);
 
 <head>
     <meta charset="UTF-8">
-    <title> Student manager System</title>
+    <title> Student manager</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 
      <!-- Latest compiled and minified CSS -->
